@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 
+//TODO: change app icons (icon too short on android)
+//TODO: create splash screen for apps (android & ios)
+//TODO: create app gifs and insert into README
+
 void main() {
   runApp(MyApp());
 }
